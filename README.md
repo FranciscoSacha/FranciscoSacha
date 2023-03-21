@@ -23,4 +23,3 @@
 [![](https://visitcount.itsvg.in/api?id=FranciscoSacha&icon=0&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Profile views](https://gpvc.arturio.dev/FranciscoSacha)
