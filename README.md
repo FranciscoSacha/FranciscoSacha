@@ -54,6 +54,7 @@ OTHERS : <br/>
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
 
+<span hidden>
 OTHERS THAT I ALRREADY USED A BIT : <br/>
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) 
@@ -66,7 +67,7 @@ OTHERS THAT I ALRREADY USED A BIT : <br/>
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
-
+</span>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=FranciscoSacha&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=FranciscoSacha&theme=dark&hide_border=false)<br/>
