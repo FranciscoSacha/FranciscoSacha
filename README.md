@@ -21,8 +21,8 @@ FRONT END STACK : <br/>
 ![CSS](https://img.shields.io/badge/css3-%23026AA7.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 <br/>
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23773177.svg?style=for-the-badge&logo=bootstrap&logoColor=%) 
-![Tailwind](https://img.shields.io/badge/tailwind-%23323330.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23773177.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/tailwind-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) 
 ![SCSS](https://img.shields.io/badge/sass-%23E23237.svg?style=for-the-badge&logo=sass&logoColor=white) 
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
