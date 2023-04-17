@@ -23,7 +23,7 @@ FRONT END STACK : <br/>
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 <br/>
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23773177.svg?style=for-the-badge&logo=bootstrap&logoColor=%) 
-![Tailwind](https://img.shields.io/badge/tailwind-%23773177.svg?style=for-the-badge&logo=tailwind&logoColor=%) 
+![Tailwind](https://img.shields.io/badge/tailwindcss-%23773177.svg?style=for-the-badge&logo=tailwind&logoColor=%) 
 ![SCSS](https://img.shields.io/badge/sass-%23E23237.svg?style=for-the-badge&logo=sass&logoColor=white) 
 <br/>
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
